@@ -1,0 +1,27 @@
+{
+  "name": "international-remittance",
+  "version": "1.0.0",
+  "description": "Cross-border payment service using Jupiter for fast, low-fee international remittance.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "remittance",
+    "cross-border",
+    "jupiter",
+    "nextjs",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
